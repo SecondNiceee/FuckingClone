@@ -1,0 +1,36 @@
+.startOn{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+
+/* Cards */
+    background: rgb(32, 48, 63);
+    padding-top: 12px 17px 12px 16px;
+    align-items: center;
+}
+.startOnLeft{
+    display: flex;
+    gap: 9px;
+    align-items: center;
+}
+img{
+    width: 17px;
+    height: 17px;
+}
+.dateIcon{
+    width: 17px;
+    height: 17px;
+}
+.startText{
+    color: rgb(255, 255, 255);
+    font-family: "SF Pro Display 400";
+    font-size: 16.67px;
+    font-weight: 400;
+    line-height: 18.31px;
+    letter-spacing: 1%;
+    text-align: left;
+}
+.arrowRight{
+    width: 3.73px;
+    height: 9.33px;
+}
